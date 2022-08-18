@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/Mwangize246/raganork.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Geoffrey",
+  "developer": "@Captain",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/Mwangize246/raganork#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
+    "@adiwajshing/baileys": "git+https://github.com/Mwangize246/Baileys.git",
     "@adiwajshing/keyed-db":"0.2.4",
     "acrcloud":"1.4.0",
     "string-crypto": "2.0.2",
