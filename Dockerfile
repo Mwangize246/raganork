@@ -1,6 +1,6 @@
-FROM quay.io/souravkl11/raganork:multidevice
+Of FROM quay.io/Mwangize246/raganork:multidevice
 
-RUN git clone https://github.com/Mwangize246/raganork-md /skl/Raganork
+RUN git clone https://github.com/Mwangize246/raganork /skl/Raganork
 WORKDIR /skl/Raganork
 ENV TZ=Asia/Kolkata
 RUN yarn install --ignore-engines
